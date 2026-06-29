@@ -333,7 +333,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Conversation History
-<img width="1597" height="897" alt="image" src="https://github.com/user-attachments/assets/76464437-b3c6-43d3-8465-330bf7d008a6" />
+<img width="1590" height="892" alt="image" src="https://github.com/user-attachments/assets/f2525f12-93d9-450d-ac7c-a9569263bc1f" />
+
 
 
 
