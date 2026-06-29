@@ -100,7 +100,7 @@ AI Driver Copilot revolutionizes fleet operations by enabling truck drivers to m
    python scripts/seed.py
    
    # Start backend server
-   uvicorn main:app --reload --port 8000
+   uvicorn main:app --reload --port 8001
    ```
 
 3. **Frontend Setup**
@@ -112,8 +112,8 @@ AI Driver Copilot revolutionizes fleet operations by enabling truck drivers to m
 
 4. **Access Application**
    - Frontend: http://localhost:3000
-   - Backend API: http://localhost:8000
-   - API Docs: http://localhost:8000/docs
+   - Backend API: http://localhost:8001
+   - API Docs: http://localhost:8001/docs
 
 5. **Default Login**
    - Email: `mike@fleet.com`
@@ -324,23 +324,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📸 Screenshots
 
+### Login Page
+<img width="1918" height="963" alt="Screenshot 2026-06-29 164646" src="https://github.com/user-attachments/assets/54a6c17b-f126-40c9-9cf4-d5495a38ff15" />
+
+
 ### Chat Interface
-![Chat Interface](docs/screenshots/chat-interface.png)
+<img width="1918" height="967" alt="Screenshot 2026-06-29 165401" src="https://github.com/user-attachments/assets/ca9f2c08-015e-4034-93cd-ccc447c87289" />
+
 
 ### Conversation History
-![History Sidebar](docs/screenshots/history-sidebar.png)
+<img width="1597" height="897" alt="image" src="https://github.com/user-attachments/assets/76464437-b3c6-43d3-8465-330bf7d008a6" />
 
-### Architecture Diagram
-![System Architecture](docs/screenshots/architecture.png)
+
+
 
 ---
 
 ## 📞 Support
 
 For questions or issues:
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-driver-copilot/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/ai-driver-copilot/discussions)
+- 📧 Email: ajayykrishna40@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/ajayykrishna40-create/AI_Driver_Copilot/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/ajayykrishna40-create/AI_Driver_Copilot/discussions)
 
 ---
 
